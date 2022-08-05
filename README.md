@@ -11,7 +11,7 @@ Stefani Joanne Angelina Germanotta (Nueva York, 28 de marzo de 1986), más conoc
    1. Iniciar sesión en github
    2. Iniciar sesión en la terminal
    3. *pwd* para saber en qué directorio estás
-   4. *git clone https://github.com/jfUPB/*sc-2022-20-eval1-Cuervo01.git
+   4. *git clone https://github.com/jfUPB/*sc-2022-20-eval1-Cuervo01.git*
 
 2. Para adicionar el archivo main.c al STAGE:
 
