@@ -2,9 +2,9 @@
 
 Stefani Joanne Angelina Germanotta (Nueva York, 28 de marzo de 1986), más conocida por su nombre artístico Lady Gaga, es una cantante, compositora, productora, bailarina, actriz, activista y diseñadora de moda estadounidense.
 
-![Imagen](https://es.wikipedia.org/wiki/Lady_Gaga#/media/Archivo:Lady_Gaga_at_Joe_Biden's_inauguration_(cropped).jpg)
+![Imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped%29.jpg/800px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped%29.jpg)
 
-![Hipervínculo](https://github.com/jfUPB/sc-2022-20-eval1-Cuervo01.git)
+[Hipervínculo](https://github.com/jfUPB/sc-2022-20-eval1-Cuervo01.git)
 
 ### Listas
 1. Para clonar un repositorio: 
